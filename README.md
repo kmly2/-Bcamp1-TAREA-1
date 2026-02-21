@@ -29,3 +29,9 @@
 
 ## Experiencia previa
 *Actualmente me encuentro en proceso de aprendizaje, siguiendo con mi formación dentro de la programación y el desarrollo web.*
+
+## 📋 Objetivos 
+
+- Seguir reforzando y aprendiendo en programación.
+- Mejorar mis habilidades en desarrollo web, etc.
+- Participar en proyectos reales :D.
